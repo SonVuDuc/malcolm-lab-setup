@@ -52,7 +52,8 @@ Quá trình cài đặt sẽ mất tầm 10p - 15p
 ![Screenshot from 2020-08-15 21-21-14](https://user-images.githubusercontent.com/32956424/90314344-46ad8f00-df3d-11ea-8da0-e6ebe2c6ae49.png)
 
 Khi thấy Logstash in ra messenge như này, nghĩa là quá trình cài đặt đã xong. 
-```…
+```
+…
 logstash_1  | [2019-06-11T15:45:42,009][INFO ][logstash.agent    ] Pipelines running {:count=>4, :running_pipelines=>[:"malcolm-output", :"malcolm-input", :"malcolm-zeek", :"malcolm-enrichment"], :non_running_pipelines=>[]}
 logstash_1  | [2019-06-11T15:45:42,599][INFO ][logstash.agent    ] Successfully started Logstash API endpoint {:port=>9600}
 …
