@@ -41,4 +41,10 @@ Sau đó, reboot lại VPS để cài đặt có hiệu lực
 
 Pull images từ DockerHub bằng lệnh ```docker-compose pull```
 
+![Screenshot from 2020-08-15 21-17-59](https://user-images.githubusercontent.com/32956424/90314306-d3a41880-df3c-11ea-9e50-b8af04094da7.png)
 
+Sau khi quá trình pull images hoàn tất. Bắt đầu chạy Malcolm bằng lệnh
+```
+python3 ./scripts/start
+```
+Quá trình cài đặt sẽ mất tầm 10p - 15p
