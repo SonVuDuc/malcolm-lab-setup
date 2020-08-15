@@ -1,4 +1,4 @@
-# Hướng dẫn setup Malcolm
+# Hướng dẫn setup lab Malcolm
 
 ## 1. Yêu cầu
 Cấu hình đề nghị: 1 VPS với 16GB RAM và CPU 16 cores
@@ -6,3 +6,7 @@ Malcolm vẫn có thể chạy ở cấu hình thấp hơn, tuy nhiên sử dụ
 
 ## 2. Cài đặt
 
+Clone Malcolm từ github
+```
+git clone https://github.com/idaholab/Malcolm.git
+```
