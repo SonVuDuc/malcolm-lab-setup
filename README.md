@@ -71,3 +71,22 @@ Dịch vụ Malcolm có thể truy cập thông qua:
   
 ## 3. Các tính năng Malcolm
 
+### Upload file PCAP
+
+Malcolm web-server cho phép upload file PCAP và Zeek log
+
+
+![Screenshot from 2020-08-15 21-36-25](https://user-images.githubusercontent.com/32956424/90314672-968d5580-df3f-11ea-84d6-ccba65a41d79.png)
+
+Người dùng có thể gán tag cho file PCAP upload
+
+
+
+
+### Live Analyst
+
+### Moloch
+
+### Kibana
+
+
