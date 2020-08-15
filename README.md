@@ -14,7 +14,6 @@ git clone https://github.com/idaholab/Malcolm.git
 Cài đặt xác thực và tự sinh self-signed SSL Certificate. 
 ```
 python3 ./scripts/auth_setup
-
 ```
-Người dùng có thể tùy chọn Username và Password để đăng nhập vào Malcolm
+Khi hệ thống yêu cầu điền Username, người dùng có thể tùy chọn Username và Password để đăng nhập vào Malcolm
 
