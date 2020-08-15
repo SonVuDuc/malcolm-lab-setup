@@ -20,3 +20,10 @@ Khi hệ thống yêu cầu điền Username, người dùng có thể tùy ch�
 ![Screenshot from 2020-08-15 20-40-12](https://user-images.githubusercontent.com/32956424/90313536-925d3a00-df37-11ea-8545-542b73a9502a.png)
 
 
+Chạy lệnh install bằng sudo
+```
+sudo python3 ./scripts/install.py 
+```
+Hệ thống sẽ hỏi người dùng có muốn thêm username vào docker group. Chọn **y** (Yes)
+
+![Screenshot from 2020-08-15 21-04-19](https://user-images.githubusercontent.com/32956424/90314023-eae20680-df3a-11ea-95b7-cdcd03982d78.png)
