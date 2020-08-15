@@ -60,3 +60,11 @@ logstash_1  | [2019-06-11T15:45:42,599][INFO ][logstash.agent    ] Successfully 
 ```
 
 Màn hình dòng lệnh vẫn sẽ tiếp tục chạy và in ra log. Người dùng có thể tắt bằng **Ctrl + C** mà không ảnh hưởng đến Malcolm đang chạy
+
+Dịch vụ Malcolm có thể truy cập thông qua:
+  + Moloch: https://localhost/
+  + Kibana: https://localhost/kibana/
+  + PCAP Upload (web): https://localhost/upload/
+  + PCAP Upload (sftp): sftp://username@127.0.0.1:8022/files/
+  + Host and subnet name mapping editor: https://localhost/name-map-ui/
+  + Quản lý account: https://localhost:488/
