@@ -37,5 +37,8 @@ Hệ thống sẽ hỏi người dùng một số tùy chỉnh cài đặt, máy
 
 ![Screenshot from 2020-08-15 21-09-20](https://user-images.githubusercontent.com/32956424/90314178-f5e96680-df3b-11ea-99d3-46faa86a5f9d.png)
 
-Sau đó, reboot lại VPS
+Sau đó, reboot lại VPS để cài đặt có hiệu lực 
+
+Pull images từ DockerHub bằng lệnh ```docker-compose pull```
+
 
