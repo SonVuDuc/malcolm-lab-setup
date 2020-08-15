@@ -32,3 +32,10 @@ Chạy lại lệnh install một lần nữa nhưng bỏ **sudo** và thêm **-
 ```
 python3 ./scripts/install.py  --configure
 ```
+Hệ thống sẽ hỏi người dùng một số tùy chỉnh cài đặt, máy có cấu hình khác nhau sẽ có thể có một số lựa chọn khác, nhưng hầu hết chúng sẽ như này:
+![Screenshot from 2020-08-15 21-08-51](https://user-images.githubusercontent.com/32956424/90314157-c63a5e80-df3b-11ea-99f7-82c81ce81fea.png)
+
+![Screenshot from 2020-08-15 21-09-20](https://user-images.githubusercontent.com/32956424/90314178-f5e96680-df3b-11ea-99d3-46faa86a5f9d.png)
+
+Sau đó, reboot lại VPS
+
