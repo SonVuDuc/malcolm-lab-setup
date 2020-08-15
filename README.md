@@ -20,7 +20,7 @@ Khi hệ thống yêu cầu điền Username, người dùng có thể tùy ch�
 ![Screenshot from 2020-08-15 20-40-12](https://user-images.githubusercontent.com/32956424/90313536-925d3a00-df37-11ea-8545-542b73a9502a.png)
 
 
-Chạy lệnh install bằng sudo
+Chạy file **install.py** bằng **sudo**
 ```
 sudo python3 ./scripts/install.py 
 ```
