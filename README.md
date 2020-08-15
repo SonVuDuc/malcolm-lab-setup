@@ -68,3 +68,6 @@ Dịch vụ Malcolm có thể truy cập thông qua:
   + PCAP Upload (sftp): sftp://username@127.0.0.1:8022/files/
   + Host and subnet name mapping editor: https://localhost/name-map-ui/
   + Quản lý account: https://localhost:488/
+  
+## 3. Các tính năng Malcolm
+
