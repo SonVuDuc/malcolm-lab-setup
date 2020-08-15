@@ -27,3 +27,8 @@ sudo python3 ./scripts/install.py
 Hệ thống sẽ hỏi người dùng có muốn thêm username vào docker group. Chọn **y** (Yes)
 
 ![Screenshot from 2020-08-15 21-04-19](https://user-images.githubusercontent.com/32956424/90314023-eae20680-df3a-11ea-95b7-cdcd03982d78.png)
+
+Chạy lại lệnh install một lần nữa nhưng bỏ **sudo** và thêm **--configure**
+```
+python3 ./scripts/install.py  --configure
+```
