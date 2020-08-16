@@ -1,10 +1,22 @@
 # Hướng dẫn setup lab Malcolm
 
-## Các thành phần của Malcom
+## Các thành phần của Malcolm
   + **Moloch**: Dùng để xử lý, duyệt, tìm kiếm, phân tích... file PCAP. Moloch gồm 2 thành phần:
-    + moloch-capture:
-    + viewer:
-
+    + moloch-capture: Công cụ để bắt lưu lượng mạng, phân tích offline file PCAP và chèn metadata vào Elasticsearch
+    + viewer: Giao diện web 
+  + **Elasticsearch**: 
+  + **Logstash** và **Filebeat**:
+  + **Kibana**:
+  + **Zeek**: Framework phân tích mạng
+  + **ClamAV**: Công cụ antivirus quyét các file giải nén từ Zeek
+  + **CyberChef**: Tool chuyển đổi dữ liệu
+  + **jQuery File Upload**: Upload file PCAP hoặc Zeek log để xử lý
+  + **List.js**:
+  + **Docker và Docker Compose**:
+  + **Nginx**:
+  + **nginx-auth-ldap**:
+  + **ElastAlert**:
+  + ****:
 ## 1. Yêu cầu
   + Cấu hình đề nghị: 1 VPS với 16GB RAM và CPU 16 cores. Malcolm vẫn có thể chạy ở cấu hình thấp hơn, tuy nhiên sử dụng 1 VPS cấu hình đề nghi sẽ cho kết quả tối ưu nhất
   + Docker và Docker Compose 
