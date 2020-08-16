@@ -75,17 +75,21 @@ Dịch vụ Malcolm có thể truy cập thông qua:
 
 Malcolm web-server cho phép upload file PCAP và Zeek log
 
-
 ![Screenshot from 2020-08-15 21-36-25](https://user-images.githubusercontent.com/32956424/90314672-968d5580-df3f-11ea-84d6-ccba65a41d79.png)
 
 Người dùng có thể gán tag cho file PCAP upload
 
+![Screenshot from 2020-08-16 09-27-20](https://user-images.githubusercontent.com/32956424/90325188-bb66e480-dfa2-11ea-8a96-fc871486c34f.png)
 
 
-
-### Live Analyst
 
 ### Moloch
+#### Session
+Truy cập vào giao diện Moloch thông qua port 443 và IP của VPS (e.g https://localhost)
+
+![Screenshot from 2020-08-13 23-55-06](https://user-images.githubusercontent.com/32956424/90325134-10562b00-dfa2-11ea-87ee-51dea5e489b2.png)
+
+
 
 ### Kibana
 
