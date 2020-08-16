@@ -84,10 +84,25 @@ Người dùng có thể gán tag cho file PCAP upload
 
 
 ### Moloch
-#### Session
 Truy cập vào giao diện Moloch thông qua port 443 và IP của VPS (e.g https://localhost)
 
-![Screenshot from 2020-08-13 23-55-06](https://user-images.githubusercontent.com/32956424/90325134-10562b00-dfa2-11ea-87ee-51dea5e489b2.png)
+![Screenshot from 2020-08-16 03-27-18](https://user-images.githubusercontent.com/32956424/90325309-3f6d9c00-dfa4-11ea-92e7-933324ecbc42.png)
+
+#### Session
+
+#### SPIView
+
+#### SPIGraph
+
+#### Connection
+
+#### Hunt
+
+#### Files
+
+#### History
+
+#### Setting
 
 
 
