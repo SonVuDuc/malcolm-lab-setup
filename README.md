@@ -91,11 +91,11 @@ Dịch vụ Malcolm có thể truy cập thông qua:
 
 ### Upload file PCAP
 
-Malcolm web-server cho phép upload file PCAP và Zeek log
+Malcolm web-server cho phép upload file PCAP và Zeek log thông qua https://localhost/upload
 
 ![Screenshot from 2020-08-15 21-36-25](https://user-images.githubusercontent.com/32956424/90314672-968d5580-df3f-11ea-84d6-ccba65a41d79.png)
 
-Người dùng có thể gán tag cho file PCAP upload
+Người dùng có thể gán tag cho file PCAP upload tiện cho việc tìm kiếm sau này
 
 ![Screenshot from 2020-08-16 09-27-20](https://user-images.githubusercontent.com/32956424/90325188-bb66e480-dfa2-11ea-8a96-fc871486c34f.png)
 
@@ -111,6 +111,8 @@ Truy cập vào giao diện Moloch thông qua port 443 và IP của VPS (e.g htt
 #### SPIView
 
 #### SPIGraph
+
+Moloch's SPI (**S**ession **P**rofile **I**nformation)
 
 #### Connection
 
