@@ -113,6 +113,11 @@ Truy cập vào giao diện Moloch thông qua port 443 và IP của VPS (e.g htt
 
 #### Connection
 
+**Connection** trình bày network communication thông qua một đồ thị, giúp người dùng dễ dàng hình dùng được mối quan hệ giữa các host  
+
+![Screenshot from 2020-08-16 10-16-54](https://user-images.githubusercontent.com/32956424/90326505-3506ce80-dfb3-11ea-80e9-734fd5981d36.png)
+
+
 #### Hunt
 
 #### Files
