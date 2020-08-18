@@ -153,7 +153,7 @@ Hiển thị những file PCAP đã được Export hoặc file PCAP do người
 
 ![Screenshot from 2020-08-18 22-28-33](https://user-images.githubusercontent.com/32956424/90533048-2d594c80-e1a2-11ea-8141-9b1779132474.png)
 
-
+#### Stats
 
 #### History
 
@@ -161,7 +161,6 @@ Chế độ History hiển thị danh sách lịch sử các vấn đề truy v�
 ![Screenshot from 2020-08-18 22-34-17](https://user-images.githubusercontent.com/32956424/90533621-f899c500-e1a2-11ea-9f90-d7bae61f0305.png)
 
 
-#### Setting
 
 
 
