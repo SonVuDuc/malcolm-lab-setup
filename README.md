@@ -108,7 +108,25 @@ Truy cập vào giao diện Moloch thông qua port 443 và IP của VPS (e.g htt
 
 #### Session
 
+Chế độ xem Session cung cấp thông tin chi tiết của các phiên, có thể là phiên được **Moloch session** tạo ra từ file PCAP hoặc Zeek log được ánh xạ đến cơ sở dữ liệu phiên
+
+![Screenshot from 2020-08-16 03-27-18](https://user-images.githubusercontent.com/32956424/90529966-8626e600-e19e-11ea-9920-f3a2360d46b0.png)
+
+Chế độ xem Session có các tính năng cho phép lọc và tìm kiếm các session
+  + Search bar
+  + Time bounding
+  + map
+  + chế độ xem 
+
+Export ra file PCAP
+
+![Screenshot from 2020-08-18 22-09-39](https://user-images.githubusercontent.com/32956424/90530842-8a9fce80-e19f-11ea-8aa9-25c82ef4b7f3.png)
+
+
 #### SPIView
+
+
+
 
 #### SPIGraph
 
