@@ -112,6 +112,10 @@ Chế độ xem Session cung cấp thông tin chi tiết của các phiên, có 
 
 ![Screenshot from 2020-08-16 03-27-18](https://user-images.githubusercontent.com/32956424/90529966-8626e600-e19e-11ea-9920-f3a2360d46b0.png)
 
+Chi tiết 1 session: 
+![Screenshot from 2020-08-18 22-11-19](https://user-images.githubusercontent.com/32956424/90531050-c6d32f00-e19f-11ea-9178-47585890b773.png)
+
+
 Chế độ xem Session có các tính năng cho phép lọc và tìm kiếm các session
   + Search bar
   + Time bounding
@@ -143,7 +147,17 @@ Connection trình bày network communication thông qua đồ thị, giúp ngư�
 
 #### Files
 
+Hiển thị những file PCAP đã được Export hoặc file PCAP do người dùng upload lên
+
+![Screenshot from 2020-08-18 22-28-33](https://user-images.githubusercontent.com/32956424/90533048-2d594c80-e1a2-11ea-8141-9b1779132474.png)
+
+
+
 #### History
+
+Chế độ History hiển thị danh sách lịch sử các vấn đề truy vấn tới Moloch và chi tiết các truy vấn đó
+![Screenshot from 2020-08-18 22-34-17](https://user-images.githubusercontent.com/32956424/90533621-f899c500-e1a2-11ea-9f90-d7bae61f0305.png)
+
 
 #### Setting
 
