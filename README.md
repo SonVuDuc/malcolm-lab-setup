@@ -129,7 +129,9 @@ Export ra file PCAP
 
 #### SPIView
 
+Giao diện dùng để xem xét số liệu của các session. Liệt kê các số liệu chung của session (e.g IP nguồn và đích, port, giao thức sử dụng...)
 
+![Screenshot from 2020-08-18 22-45-45](https://user-images.githubusercontent.com/32956424/90534956-94780080-e1a4-11ea-8d0b-df6f0c43e64f.png)
 
 
 #### SPIGraph
@@ -138,7 +140,7 @@ Moloch's SPI (**S**ession **P**rofile **I**nformation)
 
 #### Connection
 
-Connection trình bày network communication thông qua đồ thị, giúp người dùng dễ dàng hình dung được mối quan hệ giữa các host  
+Connection thể hiện các network communication thông qua đồ thị, giúp người dùng dễ dàng hình dung được mối quan hệ giữa các host  
 
 ![Screenshot from 2020-08-16 10-16-54](https://user-images.githubusercontent.com/32956424/90326505-3506ce80-dfb3-11ea-80e9-734fd5981d36.png)
 
