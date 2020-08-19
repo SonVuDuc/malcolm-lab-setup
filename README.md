@@ -150,6 +150,15 @@ Connection thể hiện các network communication thông qua đồ thị, giúp
 
 #### Hunt
 
+Tính năng Hunt cho phép người dùng tự tìm kiếm các gói tin thay vì tìm kiếm metadata session. Từ khóa tìm kiếm có thể là ASCII, mã Hex... Sau khi chạy Hunt xong, session phù hợp sẽ xem được ở chế độ xem **Session**
+
+Click vào **Create a packet search job** để tạo Hunt và chỉ định một số tham số
+  + Tên packet job
+  + Số packet tối đa
+  + Format của chuỗi tìm kiếm
+  + Packet nguồn, Packet đích, hoặc cả 2
+  + Packet raw hoặc Packet đã được ghép
+
 #### Files
 
 Hiển thị những file PCAP đã được Export hoặc file PCAP do người dùng upload lên
