@@ -159,6 +159,14 @@ Hiển thị những file PCAP đã được Export hoặc file PCAP do người
 #### Stats
 
 
+![image](https://user-images.githubusercontent.com/32956424/90629694-03f3fb80-e24a-11ea-9da4-d04d90070315.png)
+
+
+![image](https://user-images.githubusercontent.com/32956424/90629651-f2aaef00-e249-11ea-95c4-f83d1cf1635a.png)
+
+
+![image](https://user-images.githubusercontent.com/32956424/90629587-d5762080-e249-11ea-8217-a131cf7ba79e.png)
+
 
 #### History
 
