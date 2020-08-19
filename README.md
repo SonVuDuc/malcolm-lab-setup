@@ -176,4 +176,11 @@ Kibana là một nền tảng phân tích và trực quan hóa nguồn mở đư
 
 ![Screenshot from 2020-08-19 17-29-06](https://user-images.githubusercontent.com/32956424/90624027-888e4c00-e241-11ea-937b-7c57d21b72e3.png)
 
+![image](https://user-images.githubusercontent.com/32956424/90629176-1883c400-e249-11ea-84d9-72013d0a78fa.png)
+
+![image](https://user-images.githubusercontent.com/32956424/90629204-2afdfd80-e249-11ea-9481-0db1b065f756.png)
+
+![image](https://user-images.githubusercontent.com/32956424/90629224-33eecf00-e249-11ea-9f6b-a08d829a8f3a.png)
+
+
 
