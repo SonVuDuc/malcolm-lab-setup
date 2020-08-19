@@ -4,9 +4,9 @@
   + **Moloch**: Dùng để xử lý, duyệt, tìm kiếm, phân tích... file PCAP. Moloch gồm 2 thành phần:
     + moloch-capture: Công cụ để bắt lưu lượng mạng, phân tích offline file PCAP và thêm metadata vào Elasticsearch
     + viewer: Giao diện web 
-  + **Elasticsearch**: 
-  + **Logstash** và **Filebeat**:
-  + **Kibana**: Tạo 
+  + **Elasticsearch**: Công cụ tìm kiếm dựa trên nền tảng Apache Lucene. Nó cung cấp một bộ máy tìm kiếm dạng phân tán, có đầy đủ công cụ với một giao diện web HTTP có hỗ trợ dữ liệu JSON
+  + **Logstash** và **Filebeat**
+  + **Kibana**: Giao diện sử dụng dành cho người dùng trên môi trường web. Kibana sẽ sử dụng Elashtichsearch để tìm kiếm các dữ liệu phù hợp với yêu cầu của người dùng.
   + **Zeek**: Framework phân tích mạng
   + **ClamAV**: Công cụ antivirus quyét các file giải nén từ Zeek
   + **CyberChef**: Tool chuyển đổi dữ liệu
