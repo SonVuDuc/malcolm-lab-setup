@@ -158,6 +158,15 @@ Click vào **Create a packet search job** để tạo Hunt và chỉ định 
   + Format của chuỗi tìm kiếm
   + Packet nguồn, Packet đích, hoặc cả 2
   + Packet raw hoặc Packet đã được ghép
+  
+![Screenshot from 2020-08-19 20-02-54](https://user-images.githubusercontent.com/32956424/90638072-090b7780-e257-11ea-9013-0d265357a0d3.png)
+
+Sau khi xong quá trình Hunt, có thể xem được chi tiết session
+
+![Screenshot from 2020-08-16 07-49-57](https://user-images.githubusercontent.com/32956424/90638233-48d25f00-e257-11ea-81a4-b971b7c9f89c.png)
+
+
+
 
 #### Files
 
