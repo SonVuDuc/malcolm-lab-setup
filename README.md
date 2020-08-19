@@ -165,10 +165,15 @@ Hiển thị những file PCAP đã được Export hoặc file PCAP do người
 Chế độ History hiển thị danh sách lịch sử các vấn đề truy vấn tới Moloch và chi tiết các truy vấn đó
 ![Screenshot from 2020-08-18 22-34-17](https://user-images.githubusercontent.com/32956424/90533621-f899c500-e1a2-11ea-9f90-d7bae61f0305.png)
 
-
-
-
-
 ### Kibana
+
+Kibana là một nền tảng phân tích và trực quan hóa nguồn mở được thiết kế để hoạt động kết hợp chặt chẽ với Elasticsearch. Cung cấp các tính năng mạnh mẽ và dễ sử dụng như biểu đồ và hỗ trợ không gian địa lý tích hợp.
+
+![Screenshot from 2020-08-19 16-54-13](https://user-images.githubusercontent.com/32956424/90622593-84f9c580-e23f-11ea-82ab-0e16fb0d48fd.png)
+
+
+#### Visualizations và dashboards
+
+![Screenshot from 2020-08-19 17-29-06](https://user-images.githubusercontent.com/32956424/90624027-888e4c00-e241-11ea-937b-7c57d21b72e3.png)
 
 
