@@ -136,9 +136,10 @@ Giao diện dùng để xem xét số liệu của các session. Liệt kê các
 
 #### SPIGraph
 
-Moloch's SPI (**S**ession **P**rofile **I**nformation) 
+Moloch's SPI (**S**ession **P**rofile **I**nformation) hiển thị biểu đồ lưu lượng truy cập của một giao thức nhất định
 
-![image](https://user-images.githubusercontent.com/32956424/90539945-b2486400-e1aa-11ea-9cb7-c254445545a4.png)
+![Screenshot from 2020-08-19 20-11-28](https://user-images.githubusercontent.com/32956424/90638963-34db2d00-e258-11ea-9ea8-57a8a296d2c1.png)
+
 
 
 #### Connection
