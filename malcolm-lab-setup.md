@@ -180,7 +180,7 @@ Dữ liệu nhật ký của Elasticsearch indices
 ![image](https://user-images.githubusercontent.com/32956424/90629587-d5762080-e249-11ea-8217-a131cf7ba79e.png)
 
 
-**File**: Hiển thị những file PCAP đã được Export hoặc file PCAP do người dùng upload lên
+**Files Tab**: Hiển thị những file PCAP đã được Export hoặc file PCAP do người dùng upload lên
 
 ![Screenshot from 2020-08-18 22-28-33](https://user-images.githubusercontent.com/32956424/90533048-2d594c80-e1a2-11ea-8141-9b1779132474.png)
 
